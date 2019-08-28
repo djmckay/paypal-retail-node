@@ -15,7 +15,7 @@ If you just want to know the gory details of what's happening at the network lev
 
 Once you have your [developer account on PayPal.com](https://developer.paypal.com), to get started with this Node version, deploy it to Heroku by clicking the button below and then configure the environment variables in the Heroku dashboard.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/paypal/paypal-retail-node.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/djmckay/paypal-retail-node.git)
 
 <table>
 <tr><th colspan="2">Required Environment Variables</th></tr>
